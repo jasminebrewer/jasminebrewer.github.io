@@ -7,5 +7,6 @@ I am interested in heavy-ion collisions, jets, and far-from-equilibrium QCD.
 
 MIT Center for Theoretical Physics (2015-2020)
  * Ph.D. in Physics conferred 2020
+
 University of Colorado at Boulder (2011-2015)
  * B.Sc. in Engineering Physics (minor in Mathematics) conferred 2015
