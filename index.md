@@ -7,8 +7,8 @@ You can download my CV here (\JasmineBrewer_CV.pdf)
 
 ## Education
 
-MIT Center for Theoretical Physics (2015-2020) 
+MIT Center for Theoretical Physics (2015-2020)  
 *Ph.D. in Physics* conferred 2020
 
-University of Colorado at Boulder (2011-2015) 
+University of Colorado at Boulder (2011-2015)  
 *B.Sc. in Engineering Physics* (minor in Mathematics) conferred 2015
