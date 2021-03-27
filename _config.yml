@@ -1,6 +1,7 @@
 remote theme: minimal-mistakes-jekyll
 title: [Jasmine Brewer]
 name: "Jasmine Brewer"
+logo: /jasmine.png
 description: [Jasmine Brewer's homepage]
 layout: single
 toc: true
