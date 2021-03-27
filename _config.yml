@@ -1,7 +1,4 @@
 remote theme: minimal-mistakes-jekyll
-title: [Jasmine Brewer]
-logo: /jasmine.jpg
-description: [Jasmine Brewer's homepage]
 layout: single
 toc: true
 author:
