@@ -9,3 +9,5 @@ author:
   avatar   : "/jasmine.jpg"
   bio      : "My awesome biography constrained to a sentence or two goes here."
   location : "Somewhere, USA"
+plugins:
+  - jekyll-include-cache
