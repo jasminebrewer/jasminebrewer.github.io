@@ -3,13 +3,6 @@ title: [Jasmine Brewer]
 name: "Jasmine Brewer"
 logo: /jasmine.png
 description: [Jasmine Brewer's homepage]
-layout: single
-toc: true
-author:
-  name     : "Your Name"
-  avatar   : "/jasmine.jpg"
-  bio      : "My awesome biography constrained to a sentence or two goes here."
-  location : "Somewhere, USA"
 author_profile: true
 plugins:
   - jekyll-include-cache
