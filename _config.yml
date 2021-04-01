@@ -24,7 +24,10 @@ url: https://jasminebrewer.github.io # the base hostname & protocol for your sit
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
-
+sidebar:
+  - title: "Title"
+    image: /assets/images/jasmine.jpg
+    text: "Some text here."
 
 twitter_username: username
 github_username: username
