@@ -24,11 +24,6 @@ url: https://jasminebrewer.github.io # the base hostname & protocol for your sit
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
-sidebar:
-  - title: "Title"
-    image: /assets/images/jasmine.jpg
-    text: "Some text here."
-
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -70,9 +65,11 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
+sidebar:
+  - title: "Title"
+    image: /assets/images/jasmine.jpg
+    text: "Some text here."
 
 defaults:
   # _posts
