@@ -1,3 +1,8 @@
+---
+permalink: /
+title: "About"
+author_profile: true
+---
 
 ## About Me
 
