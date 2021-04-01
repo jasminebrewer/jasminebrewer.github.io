@@ -1,16 +1,8 @@
-## About Me
+---
+permalink: /about/
+title: "About"
+---
 
-I am a postdoctoral fellow in the Theoretical Physics Department at CERN. I received my PhD from the MIT Center for Theoretical Physics in 2020.
-I am interested in heavy-ion collisions, jets, and far-from-equilibrium QCD.
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-You can download my CV <a href="https://jasminebrewer.github.io/JasmineBrewer_CV.pdf" target="_blank">here.</a>
-
-## Education
-
-MIT Center for Theoretical Physics (2015-2020)  
-*Ph.D. in Physics* conferred 2020
-
-University of Colorado at Boulder (2011-2015)  
-*B.Sc. in Engineering Physics* (minor in Mathematics) conferred 2015
-
-## Projects
+Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
