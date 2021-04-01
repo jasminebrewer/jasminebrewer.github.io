@@ -15,5 +15,9 @@ You can download my CV <a href="https://jasminebrewer.github.io/JasmineBrewer_CV
 MIT Center for Theoretical Physics (2015-2020)  
 *Ph.D. in Physics* conferred 2020
 
+<p align="center">
+<img src="/assets/images/MIT.png" width="400">
+</p>
+
 University of Colorado at Boulder (2011-2015)  
 *B.Sc. in Engineering Physics* (minor in Mathematics) conferred 2015
