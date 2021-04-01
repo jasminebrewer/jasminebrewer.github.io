@@ -3,10 +3,10 @@ permalink: /
 layout: single
 title: "About"
 sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
+  - title: "Jasmine Brewer"
+    image: /assets/images/jasmine.jpg
     image_alt: "image"
-    text: "Some text here."
+    text: "Theoretical Physicist"
 ---    
 
 I am a postdoctoral fellow in the Theoretical Physics Department at CERN. I received my PhD from the MIT Center for Theoretical Physics in 2020.
