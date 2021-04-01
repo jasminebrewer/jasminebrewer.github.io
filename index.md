@@ -1,10 +1,11 @@
 ---
 permalink: /
 layout: single
-title: "About"
+title: "About Me"
 sidebar:
   - title: "Jasmine Brewer"
     image: /assets/images/jasmine.jpg
+    overlay: 0
     image_alt: "image"
     text: "Theoretical Physicist"
 ---    
