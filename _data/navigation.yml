@@ -1,5 +1,5 @@
 main:
   - title: "About"
-    url: /about/
+    url: https://jasminebrewer.github.io/
   - title: "Projects"
     url: /projects/
