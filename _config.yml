@@ -57,7 +57,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
+owner:
   name   : "Jasmine Brewer"
   avatar : "/assets/images/jasmine.jpg"
   bio    : "CERN Postdoctoral Fellow"
