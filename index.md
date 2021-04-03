@@ -22,8 +22,8 @@ MIT Center for Theoretical Physics (2015-2020)
 University of Colorado at Boulder (2011-2015)  
 *B.Sc. in Engineering Physics* (minor in Mathematics) conferred 2015
 
-## Bio
+<!---## Bio
 
 From 2015 - 2020 I was a Ph.D student in the Center for Theoretical Physics at MIT. I was funded by a Presidential fellowship from MIT and a graduate fellowship from the National Science Foundation.
 
-I grew up in Bozeman, MT.
+I grew up in Bozeman, MT.--->
