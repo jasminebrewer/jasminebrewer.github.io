@@ -12,11 +12,11 @@ You can download my CV <a href="https://jasminebrewer.github.io/assets/files/Jas
 
 ## Education
 
-<img align="right" src="https://jasminebrewer.github.io/assets/images/MIT.png" height="100" />
+<img align="right" src="https://jasminebrewer.github.io/assets/images/MIT.png" width="150" />
 MIT Center for Theoretical Physics (2015-2020)  
 *Ph.D. in Physics* conferred 2020  
 <a href="https://jasminebrewer.github.io/assets/files/brewer-phd-physics-2020.pdf" target="_blank">My dissertation.</a>  
 
-<img align="right" src="https://jasminebrewer.github.io/assets/images/CU.jpeg" height="100" />
+<img align="right" src="https://jasminebrewer.github.io/assets/images/CU.jpeg" width="100" />
 University of Colorado at Boulder (2011-2015)  
 *B.Sc. in Engineering Physics* (minor in Mathematics) conferred 2015
