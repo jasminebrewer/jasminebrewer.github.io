@@ -30,7 +30,8 @@ search: true
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin    : air
 
 include:
