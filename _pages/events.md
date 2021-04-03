@@ -9,7 +9,7 @@ author_profile: true
 
 # OppO@LHC
 
-<img src="https://github.com/jasminebrewer/jasminebrewer.github.io/blob/main/assets/images/oppo_logo.png"
+<img src="https://jasminebrewer.github.io/assets/images/oppo_logo.png"
      alt="OppO logo"
      style="float: left; margin-right: 10px;" />
 
