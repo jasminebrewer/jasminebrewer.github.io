@@ -5,7 +5,7 @@ title: "About Me"
 sidebar:
   - title: "Jasmine Brewer"
     image: /assets/images/jasmine.jpg
-    overlay: 0
+    overlay_filter: 0
     image_alt: "image"
     text: "Theoretical Physicist"
 ---    
