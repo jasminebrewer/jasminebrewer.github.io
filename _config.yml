@@ -26,12 +26,12 @@ last_updated: false # set to true if you want to display last updated in the foo
 
 twitter_username: username
 github_username: username
-minimal_mistakes_skin    : "dark"
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin    : air
 
 include:
   - _pages
