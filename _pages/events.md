@@ -13,5 +13,7 @@ In February 2021 I organized a workshop with Aleksas Mazeliauskas and Wilke van 
 ## Upcoming
 
 # Jets and thermalization in non-abelian plasmas
+With Sangyong Jeon and Aleksi Kurkela I am organizing the first week of the 2021 Institute for Nuclear Theory program ``Probing QCD at high energy and density with jets''.
 
 # CERN-Fermilab School
+I am on the local organizing committee for the 2021 CERN-Fermilab Hadron Collider Physics Summer School.
