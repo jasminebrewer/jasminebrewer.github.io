@@ -103,9 +103,6 @@ author:
   location         : "Geneva, Switzerland"
   email            : "jasmine.brewer@cern.ch"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "jasmine.brewer@cern.ch"
     - label: "Inspire"
       url: "https://inspirehep.net/authors/1501371"
     - label: "arXiv"
