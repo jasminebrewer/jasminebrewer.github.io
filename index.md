@@ -12,7 +12,7 @@ You can download my CV <a href="https://jasminebrewer.github.io/assets/files/Jas
 
 ## Education
 
-<img align="right" src="https://jasminebrewer.github.io/assets/images/MIT.png" />
+<img align="right" src="https://jasminebrewer.github.io/assets/images/MIT.png" width="100" />
 
 MIT Center for Theoretical Physics (2015-2020)  
 *Ph.D. in Physics* conferred 2020  
