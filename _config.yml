@@ -101,7 +101,6 @@ author:
   avatar           : "/assets/images/jasmine.jpg"
   bio              : "CERN Postdoctoral Fellow"
   location         : "Geneva, Switzerland"
-  email            : "jasmine.brewer@cern.ch"
   links:
     - label: "Inspire"
       url: "https://inspirehep.net/authors/1501371"
