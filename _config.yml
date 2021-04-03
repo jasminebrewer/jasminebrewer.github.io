@@ -57,20 +57,18 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-owner:
+author:
   name   : "Jasmine Brewer"
   avatar : "/assets/images/jasmine.jpg"
   bio    : "CERN Postdoctoral Fellow"
+  location: "Gen\'eve, Switzerland"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Inspire"
+      url: "https://inspirehep.net/authors/1501371"
+    - label: "arXiv"
+      url: "https://arxiv.org/search/?query=jasmine+brewer&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/jasminebrewer"
 
 footer:
   links:
