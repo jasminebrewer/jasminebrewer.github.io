@@ -9,7 +9,7 @@ author_profile: true
 
 # OppO@LHC
 
-<img src="/assets/images/MIT.png"
+<img src="https://commons.wikimedia.org/wiki/File:MIT_logo.svg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
