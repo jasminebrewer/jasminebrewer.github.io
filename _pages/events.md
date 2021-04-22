@@ -21,5 +21,4 @@ In February 2021 I organized a workshop with Aleksas Mazeliauskas and Wilke van 
 With Sangyong Jeon and Aleksi Kurkela I am organizing the first week of the 2021 Institute for Nuclear Theory program "Probing QCD at high energy and density with jets".
 
 # CERN-Fermilab School
-I am on the local organizing committee for the <a href="https://indico.cern.ch/event/1023573/" target="_blank">\
-2021 CERN-Fermilab Hadron Collider Physics Summer School</a>.
+I am on the local organizing committee for the <a href="https://indico.cern.ch/event/1023573/" target="_blank">2021 CERN-Fermilab Hadron Collider Physics Summer School</a>.
