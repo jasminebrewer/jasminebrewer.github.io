@@ -10,6 +10,12 @@ I am interested in heavy-ion collisions, jets, and far-from-equilibrium QCD.
 
 You can download my CV <a href="https://jasminebrewer.github.io/assets/files/JasmineBrewer_CV.pdf" target="_blank">here.</a>
 
+## Professional Experience
+
+<img align="right" src="https://jasminebrewer.github.io/assets/images/CERN_logo.svg" width="150" padding="10"/>
+CERN Theoretical Physics (2020-)
+*Senior Research Fellow*
+
 ## Education
 
 <img align="right" src="https://jasminebrewer.github.io/assets/images/MIT.png" width="150" padding="10"/>
