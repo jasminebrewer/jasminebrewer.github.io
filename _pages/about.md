@@ -5,7 +5,7 @@ title: "About Me"
 author_profile: true
 ---
 
-I am a postdoctoral fellow in the Theoretical Physics Department at CERN. I received my PhD from the MIT Center for Theoretical Physics in 2020.
+I am a postdoctoral fellow in the Rudolf-Peierls Centre for Theoretical Physics at Oxford. I received my PhD from the MIT Center for Theoretical Physics in 2020 and spent three years as a Senior Research Fellow at CERN.
 I am interested in heavy-ion collisions, jets, and far-from-equilibrium QCD.
 
 You can download my CV <a href="https://jasminebrewer.github.io/JasmineBrewer_CV.pdf" target="_blank">here.</a>
