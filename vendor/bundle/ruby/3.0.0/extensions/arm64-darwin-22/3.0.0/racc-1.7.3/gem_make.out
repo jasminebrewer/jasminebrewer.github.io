@@ -1,0 +1,20 @@
+current directory: /Users/brewer/Dropbox (MIT)/MIT/Website/jasminebrewer.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+/opt/homebrew/opt/ruby@3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/brewer/Dropbox (MIT)/MIT/Website/jasminebrewer.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240405-81630-oxably sitelibdir\=./.gem.20240405-81630-oxably clean
+
+current directory: /Users/brewer/Dropbox (MIT)/MIT/Website/jasminebrewer.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240405-81630-oxably sitelibdir\=./.gem.20240405-81630-oxably
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lruby.3.0'
+
+current directory: /Users/brewer/Dropbox (MIT)/MIT/Website/jasminebrewer.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240405-81630-oxably sitelibdir\=./.gem.20240405-81630-oxably install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20240405-81630-oxably/racc
+
+current directory: /Users/brewer/Dropbox (MIT)/MIT/Website/jasminebrewer.github.io/vendor/bundle/ruby/3.0.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240405-81630-oxably sitelibdir\=./.gem.20240405-81630-oxably clean

@@ -1,0 +1,21 @@
+current directory: /Users/brewer/Dropbox (MIT)/MIT/Website/jasminebrewer.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+/opt/homebrew/opt/ruby@3.0/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/brewer/Dropbox (MIT)/MIT/Website/jasminebrewer.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240405-81630-nyavr1 sitelibdir\=./.gem.20240405-81630-nyavr1 clean
+
+current directory: /Users/brewer/Dropbox (MIT)/MIT/Website/jasminebrewer.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240405-81630-nyavr1 sitelibdir\=./.gem.20240405-81630-nyavr1
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: -multiply_defined is obsolete
+ld: warning: ignoring duplicate libraries: '-lc++', '-lruby.3.0'
+
+current directory: /Users/brewer/Dropbox (MIT)/MIT/Website/jasminebrewer.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240405-81630-nyavr1 sitelibdir\=./.gem.20240405-81630-nyavr1 install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20240405-81630-nyavr1
+
+current directory: /Users/brewer/Dropbox (MIT)/MIT/Website/jasminebrewer.github.io/vendor/bundle/ruby/3.0.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240405-81630-nyavr1 sitelibdir\=./.gem.20240405-81630-nyavr1 clean
