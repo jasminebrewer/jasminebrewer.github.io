@@ -1,7 +1,7 @@
 ---
 permalink: /projects/
 layout: single
-title: "Research Overview"
+title: "Projects"
 author_profile: true
 ---
 
