@@ -1,6 +1,8 @@
 main:
     - title: "About Me"
       url: /
+    - title: "Research Overview"
+      url: /overview/
     - title: "Projects"
       url: /projects/
     - title: "Events"
