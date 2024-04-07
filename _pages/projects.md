@@ -27,3 +27,5 @@ Jets come in two types - they can be initiated either by quarks or gluons - whic
 
 
 ## Microscopic dynamics and emergent phenomena in complex systems
+
+A significant part of my research focuses on non-equilibrium quantum systems and equilibration in the quark-gluon plasma. One part of this direction is that I develop simulations based on the microscopic interactions of individual particles to understand the emergent macroscopic dynamics.
