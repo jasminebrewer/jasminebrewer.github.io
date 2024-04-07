@@ -12,8 +12,12 @@ You can download my CV <a href="https://jasminebrewer.github.io/assets/files/Jas
 
 ## Professional Experience
 
+<img align="right" src="https://jasminebrewer.github.io/assets/images/Oxford_logo.png" width="120" padding="10"/>
+Oxford Centre for Theoretical Physics (2023-)\\
+*Leverhulme-Peierls Fellow*
+
 <img align="right" src="https://jasminebrewer.github.io/assets/images/CERN_logo.svg" width="120" padding="10"/>
-CERN Theoretical Physics (2020-)\\
+CERN Theoretical Physics (2020-2023)\\
 *Senior Research Fellow*
 
 ## Education
