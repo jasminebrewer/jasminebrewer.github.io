@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <figure>
-  <img align="right" src="https://jasminebrewer.github.io/assets/images/CCMayJun22_RUN3_ion_eventdisplay.jpg" alt="Heavy ion event display" width="320" padding="10>
+  <img src="https://jasminebrewer.github.io/assets/images/CCMayJun22_RUN3_ion_eventdisplay.jpg" alt="Heavy ion event display" align="right" width="320" padding="10">
   <figcaption>Tracks of particles produced in a single heavy ion collision event measured by ALICE experiment. Image from <a href="https://cerncourier.com/a/heavy-ion-physics-past-present-and-future/" target="_blank">CERN Courier</a>.</figcaption>  
 </figure>
 
