@@ -11,6 +11,12 @@ author_profile: true
 
 In March 2024 I presented at Oxford's Morning of Theoretical Physics, an outreach event for alumni to learn about current research in the department. A podcast of the event is available <a href="https://saturdaytheory.physics.ox.ac.uk/event/leverhulme-peierls-fellows-0" target="_blank">here</a>.
 
+# Jets and thermalization in non-abelian plasmas
+With Sangyong Jeon and Aleksi Kurkela I am organizing the first week of the 2021 Institute for Nuclear Theory program "Probing QCD at high energy and density with jets".
+
+# CERN-Fermilab School
+I am on the local organizing committee for the <a href="https://indico.cern.ch/event/1023573/" target="_blank">2021 CERN-Fermilab Hadron Collider Physics Summer School</a>.
+
 # OppO@LHC
 
 <img src="https://jasminebrewer.github.io/assets/images/oppo_logo.png"
@@ -21,8 +27,4 @@ In February 2021 I organized a workshop with Aleksas Mazeliauskas and Wilke van 
 
 ## Upcoming
 
-# Jets and thermalization in non-abelian plasmas
-With Sangyong Jeon and Aleksi Kurkela I am organizing the first week of the 2021 Institute for Nuclear Theory program "Probing QCD at high energy and density with jets".
-
-# CERN-Fermilab School
-I am on the local organizing committee for the <a href="https://indico.cern.ch/event/1023573/" target="_blank">2021 CERN-Fermilab Hadron Collider Physics Summer School</a>.
+I am part of organizing an 8-week program on "Frontiers of Quark Matter" at the Kavli Institute for Theoretical Physics set to take place in 2025.
