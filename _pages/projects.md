@@ -17,6 +17,7 @@ Jets containing two charm quarks provide a unique opportunity to connect theory 
 
 ###### Ongoing projects
 
+<img align="right" src="https://jasminebrewer.github.io/assets/images/ML_cartoon.png" width="200" padding="20"/>
 <em>Machine learning - </em> I am developing techniques to use neural networks and boosted decision trees to identify jets containing two charm quarks in the case that only one of the charm quarks is measured.
 
 <em>Flavor tagging with substructure - </em> I am using jet substructure to identify the gluon splitting to charm quarks inside a jet with two charm, and to identify the types of other splittings within this type of jet. Code for this analysis is available on <a href="https://github.com/jasminebrewer/ccbar_substructure" target="_blank">github</a>.
@@ -28,4 +29,4 @@ Jets come in two types - they can be initiated either by quarks or gluons - whic
 
 ## Microscopic dynamics and emergent phenomena in complex systems
 
-A significant part of my research focuses on non-equilibrium quantum systems and equilibration in the quark-gluon plasma. One part of this direction is that I develop simulations based on the microscopic interactions of individual particles to understand the emergent macroscopic dynamics.
+A significant part of my research focuses on non-equilibrium quantum systems and equilibration in the quark-gluon plasma. One part of this direction is that I develop simulations based on the microscopic interactions of individual particles to understand the emergent macroscopic dynamics. I have also developed a strategy to explain emergent simplicity in the dynamics of complex non-equilibrium systems.
