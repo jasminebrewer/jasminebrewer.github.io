@@ -7,6 +7,8 @@ author_profile: true
 
 ## Recent
 
+# Saturday of Theoretical Physics
+
 # OppO@LHC
 
 <img src="https://jasminebrewer.github.io/assets/images/oppo_logo.png"
