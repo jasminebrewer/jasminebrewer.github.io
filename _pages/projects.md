@@ -17,7 +17,7 @@ Jets containing two charm quarks provide a unique opportunity to connect theory 
 
 ###### Ongoing projects
 
-<img align="right" src="https://jasminebrewer.github.io/assets/images/ML_cartoon.png" width="200" padding="20"/>
+<img align="right" src="https://jasminebrewer.github.io/assets/images/ML_cartoon.png" width="250" padding="10"/>
 <em>Machine learning - </em> I am developing techniques to use neural networks and boosted decision trees to identify jets containing two charm quarks in the case that only one of the charm quarks is measured.
 
 <em>Flavor tagging with substructure - </em> I am using jet substructure to identify the gluon splitting to charm quarks inside a jet with two charm, and to identify the types of other splittings within this type of jet. Code for this analysis is available on <a href="https://github.com/jasminebrewer/ccbar_substructure" target="_blank">github</a>.
