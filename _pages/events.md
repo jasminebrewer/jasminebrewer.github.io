@@ -9,6 +9,8 @@ author_profile: true
 
 # Saturday of Theoretical Physics
 
+In March 2024 I presented at Oxford's Morning of Theoretical Physics, an outreach event for alumni to learn about current research in the department. A podcast of the event is available <a href="https://saturdaytheory.physics.ox.ac.uk/event/leverhulme-peierls-fellows-0" target="_blank">here</a>.
+
 # OppO@LHC
 
 <img src="https://jasminebrewer.github.io/assets/images/oppo_logo.png"
