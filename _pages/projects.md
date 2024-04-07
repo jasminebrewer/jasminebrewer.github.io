@@ -12,8 +12,12 @@ A major focus of my research is developing techniques to use large and complex d
 
 #### Jets with two charm quarks
 
-<img align="right" src="https://jasminebrewer.github.io/assets/images/Pmed_cartoon.png" width="420" padding="10"/>
-A special type of physical processes, jets containing two charm quarks, provide a unique opportunity to probe particular features inside of jets.
+<img align="right" src="https://jasminebrewer.github.io/assets/images/Pmed_cartoon.png" width="320" padding="10"/>
+Jets containing two charm quarks provide a unique opportunity to connect theory to experiment, by making it possible to directly access the underlying gluon splitting to charm quarks. These processes allow us to access physics that cannot be accessed in other processes, including medium-enhanced charm production we demonstrated in <a href="" target="_blank"> </a> and <a href="" target="_blank"> </a>.
+
+#*Ongoing projects -- *
+
+
 
 #### Disentangling quark and gluon jets
 
