@@ -99,8 +99,8 @@ include:
 author:
   name             : "Jasmine Brewer"
   avatar           : "/assets/images/jasmine.jpg"
-  bio              : "CERN Postdoctoral Fellow"
-  location         : "Geneva, Switzerland"
+  bio              : "Leverhulme-Peierls Fellow, Oxford"
+  location         : "Oxford, UK"
   links:
     - label: "Inspire"
       url: "https://inspirehep.net/authors/1501371"

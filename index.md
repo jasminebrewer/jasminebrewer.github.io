@@ -13,8 +13,8 @@ You can download my CV <a href="https://jasminebrewer.github.io/assets/files/Jas
 ## Professional Experience
 
 <img align="right" src="https://jasminebrewer.github.io/assets/images/Oxford_logo.png" width="120" padding="10"/>
-Rudolf Peierls Centre for Theoretical Physics (2023-)\\
-University of Oxford\\
+University of Oxford (2023-)\\
+Rudolf Peierls Centre for Theoretical Physics\\
 *Leverhulme-Peierls Fellow*
 
 <img align="right" src="https://jasminebrewer.github.io/assets/images/CERN_logo.svg" width="120" padding="10"/>
