@@ -7,10 +7,9 @@ author_profile: true
 
 <figure>
   <img align="right">
-  <img src="https://jasminebrewer.github.io/assets/images/CCMayJun22_RUN3_ion_eventdisplay.jpg">
+  <img src="https://jasminebrewer.github.io/assets/images/CCMayJun22_RUN3_ion_eventdisplay.jpg" alt="Heavy ion event display">
   <img width="320">
   <img padding="10">
-  <img alt="Heavy ion event display">
   <figcaption>Tracks of particles produced in a single heavy ion collision event measured by ALICE experiment.</figcaption>  
 </figure>
 
