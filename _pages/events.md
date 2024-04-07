@@ -5,6 +5,12 @@ title: "Events"
 author_profile: true
 ---
 
+# Upcoming
+
+In April 2024 I am participating in the Erice International School on Complexity course on <a href="https://indico.lucas.lu.se/event/2901/" target="_blank">Machine Learning Approaches for Complexity</a>.
+
+I am organizing an 8-week program on "Frontiers of Quark Matter" at the Kavli Institute for Theoretical Physics set to take place in 2025.
+
 # Recent
 
 ### Saturday of Theoretical Physics
@@ -24,7 +30,3 @@ I am on the local organizing committee for the <a href="https://indico.cern.ch/e
      style="float: left;" />
 
 In February 2021 I organized a workshop with Aleksas Mazeliauskas and Wilke van der Schee on the <a href="https://indico.cern.ch/event/975877/" target="_blank">Opportunities of oxygen--oxygen and proton--oxygen collisions at the LHC.</a> The workshop had 400 registered participants and 186 unique connections per day. We wrote <a href="https://arxiv.org/abs/2103.01939" target="_blank">arXiv:2103.01939</a> to summarize the scientific content of the workshop. 
-
-# Upcoming
-
-I am organizing an 8-week program on "Frontiers of Quark Matter" at the Kavli Institute for Theoretical Physics set to take place in 2025.

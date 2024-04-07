@@ -5,9 +5,16 @@ title: "Projects"
 author_profile: true
 ---
 
-My research focuses on high-energy collisions of heavy nuclei like lead and gold. These heavy-ion collisions are among the most complex and fascinating systems on earth: they produce the quark-gluon plasma, an exotic liquid of free quarks and gluons that was the state of all matter in the universe in the microseconds after the big bang. However studying the quark-gluon plasma is extremely challenging because its lifetime is 1e-23 seconds – 1000 times shorter than the fastest laser pulses. A major challenge that I tackle in my research is how we can best analyze this complex data – thousands of particles per event, over millions of events – to infer the properties of the quark-gluon plasma with high precision.
+A major focus of my research is developing techniques to use large and complex data most directly to access the properties of the plasma. My research focuses on using jets - sprays of high-energy particles produced inside the quark-gluon plasma. However, jets themselves are very complicated objects, so my research focuses on identifying special types of analysis techniques or physical processes where we can access new information using data.
 
-<figure>
-  <img src="https://jasminebrewer.github.io/assets/images/CCMayJun22_RUN3_ion_eventdisplay.jpg" alt="Heavy ion event display" style="float: right;width: 320px;">
-  <figcaption>Tracks of particles produced in a single heavy ion collision event measured by ALICE experiment. Image from <a href="https://cerncourier.com/a/heavy-ion-physics-past-present-and-future/" target="_blank">CERN Courier</a>.</figcaption>  
-</figure>
+
+### Jets with two charm quarks
+
+A special type of physical processes, jets containing two charm quarks, provide a unique opportunity to probe particular features inside of jets.
+
+### Disentangling quark and gluon jets
+
+Jets come in two types - they can be initiated either by quarks or gluons - which give them different properties and influence their interaction with the quark-gluon plasma. Separating measurements into quark and gluon jets can be viewed as a topic modelling problem. Two unlabelled mixtures of two underlying categories, in this case quark and gluon jets, can be separated into measurements on each category. I demonstrated this technique for separating quark and gluon jet measurements in heavy-ion collisions. We demonstrated the technique for the first time in <a href="https://arxiv.org/abs/2008.08596" target="_blank">arXiv:2008.08596</a> and showed how it can be used for a variety of observables in <a href="https://arxiv.org/abs/2204.00641" target="_blank">arXiv:2204.00641</a>. The code is available on <a href="https://github.com/jasminebrewer/jet-topics-from-MCMC" target="_blank">github</a>.
+
+
+Microscopic dynamics and emergent phenomena in complex systems
