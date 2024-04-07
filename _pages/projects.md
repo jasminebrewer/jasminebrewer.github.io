@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: /research overview/
 layout: single
 title: "Research Overview"
 author_profile: true
