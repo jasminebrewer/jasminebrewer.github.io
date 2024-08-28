@@ -132,6 +132,8 @@
         <ul class="visible-links"><li class="masthead__menu-item">
               <a href="/">About Me</a>
             </li><li class="masthead__menu-item">
+              <a href="/overview/">Research Overview</a>
+            </li><li class="masthead__menu-item">
               <a href="/projects/">Projects</a>
             </li><li class="masthead__menu-item">
               <a href="/events/">Events</a>
@@ -175,7 +177,7 @@
     
     
       <div class="author__bio" itemprop="description">
-        <p>CERN Postdoctoral Fellow</p>
+        <p>Leverhulme-Peierls Fellow, Oxford</p>
 
       </div>
     
@@ -186,7 +188,7 @@
     <ul class="author__urls social-icons">
       
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Geneva, Switzerland</span>
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Oxford, UK</span>
         </li>
       
 
@@ -208,13 +210,6 @@
 
       
 
-      
-        <li>
-          <a href="mailto:jasmine.brewer@cern.ch">
-            <meta itemprop="email" content="jasmine.brewer@cern.ch" />
-            <i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i><span class="label">Email</span>
-          </a>
-        </li>
       
 
       
@@ -296,11 +291,29 @@
 
       <section class="page__content" itemprop="text">
         
-        <h2 id="jets-and-high-energy-probes">Jets and high-energy probes</h2>
+        <h2 id="data-inference-with-jets">Data inference with jets</h2>
 
-<p>I am interested in the modification of high-energy probes, especially jets, as a probe of the structure of the quark–gluon plasma. I develop data-driven methods and new observables to clarify the theoretical interpretation of experimental measurements.</p>
+<p>A major focus of my research is developing techniques to use large and complex data most directly to access the properties of the plasma. My research focuses on using jets - sprays of high-energy particles produced inside the quark-gluon plasma. However, jets themselves are very complicated objects, so my research focuses on identifying special types of analysis techniques or physical processes where we can access new information using data.</p>
 
-<h2 id="far-from-equilibrium-dynamics">Far-from-equilibrium dynamics</h2>
+<h4 id="jets-with-two-charm-quarks">Jets with two charm quarks</h4>
+
+<p><img align="right" src="https://jasminebrewer.github.io/assets/images/Pmed_cartoon.png" width="300" padding="20" />
+Jets containing two charm quarks provide a unique opportunity to connect theory to experiment, by making it possible to directly access the underlying gluon splitting to charm quarks. These processes allow us to access physics that cannot be accessed in other processes, including medium-enhanced charm production we demonstrated in <a href="https://arxiv.org/abs/2209.13600" target="_blank">arXiv:2209.13600</a>, based on theoretical developments in <a href="https://arxiv.org/abs/2203.11241" target="_blank">arXiv:2203.11241</a>.</p>
+
+<h6 id="ongoing-projects">Ongoing projects</h6>
+
+<p><img align="right" src="https://jasminebrewer.github.io/assets/images/ML_cartoon.png" width="250" padding="10" />
+<em>Machine learning - </em> I am developing techniques to use neural networks and boosted decision trees to identify jets containing two charm quarks in the case that only one of the charm quarks is measured.</p>
+
+<p><em>Flavor tagging with substructure - </em> I am using jet substructure to identify the gluon splitting to charm quarks inside a jet with two charm, and to identify the types of other splittings within this type of jet. Code for this analysis is available on <a href="https://github.com/jasminebrewer/ccbar_substructure" target="_blank">github</a>.</p>
+
+<h4 id="disentangling-quark-and-gluon-jets">Disentangling quark and gluon jets</h4>
+
+<p>Jets come in two types - they can be initiated either by quarks or gluons - which give them different properties and influence their interaction with the quark-gluon plasma. Separating measurements into quark and gluon jets can be viewed as a topic modelling problem. Two unlabelled mixtures of two underlying categories, in this case quark and gluon jets, can be separated into measurements on each category. I demonstrated this technique for separating quark and gluon jet measurements in heavy-ion collisions. We demonstrated the technique for the first time in <a href="https://arxiv.org/abs/2008.08596" target="_blank">arXiv:2008.08596</a> and showed how it can be used for a variety of observables in <a href="https://arxiv.org/abs/2204.00641" target="_blank">arXiv:2204.00641</a>. The code is available on <a href="https://github.com/jasminebrewer/jet-topics-from-MCMC" target="_blank">github</a>.</p>
+
+<h2 id="microscopic-dynamics-and-emergent-phenomena-in-complex-systems">Microscopic dynamics and emergent phenomena in complex systems</h2>
+
+<p>A significant part of my research focuses on non-equilibrium quantum systems and equilibration in the quark-gluon plasma. One part of this direction is that I develop simulations based on the microscopic interactions of individual particles to understand the emergent macroscopic dynamics. I have also developed a strategy to explain emergent simplicity in the dynamics of complex non-equilibrium systems. You can download Mathematica code to solve the kinetic equation to the onset of prescaling <a href="https://jasminebrewer.github.io/assets/files/solve_small-angle_functions.nb" target="_blank">here.</a></p>
 
         
       </section>
@@ -342,12 +355,6 @@
     
 
     
-      
-        
-      
-        
-      
-    
 
     
       <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
@@ -355,7 +362,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2021 Jasmine Brewer. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2024 Jasmine Brewer. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
