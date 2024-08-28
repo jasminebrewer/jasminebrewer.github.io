@@ -1,32 +1,49 @@
 ---
-permalink: /projects/
+permalink: /publications/
 layout: single
-title: "Projects"
+title: "Publications"
 author_profile: true
 ---
 
-## Data inference with jets
+## Publications
 
-A major focus of my research is developing techniques to use large and complex data most directly to access the properties of the plasma. My research focuses on using jets - sprays of high-energy particles produced inside the quark-gluon plasma. However, jets themselves are very complicated objects, so my research focuses on identifying special types of analysis techniques or physical processes where we can access new information using data.
+	F.~Zhou, **J.~Brewer**, A.~Mazeliauskas. ``Minijet quenching in non-equilibrium quark-gluon plasma.'' *JHEP 06 (2024) 214*. [\href{https://arxiv.org/abs/2402.09298}{arXiv:2402.09298}].
 
+ 
+	**J.~Brewer**, W.~Ke, L.~Yan, and Y.~Yin. ``Far-from-equilibrium slow modes and momentum anisotropy in expanding plasma.'' *Phys.Rev.D 109 (2024) 9, L091504*. [\href{https://arxiv.org/abs/2212.00820}{arXiv:2212.00820}].
 
-#### Jets with two charm quarks
+	M.~Attems, **J.~Brewer**, G.M.~Innocenti, A.~Mazeliauskas, S.~Park, W.~van der Schee, and U.~Wiedemann. ``Medium-enhanced $c\bar{c}$ radiation.'' *Phys.Rev.Lett. 132 (2024) 21, 212301*. [\href{https://arxiv.org/abs/2209.13600}{arXiv:2209.13600}].
+	
+	Y.~Ying, **J.~Brewer**, Y.~Chen, and Y.J.~Lee. ``Data-driven extraction of the substructure of quark and gluon jets in proton-proton and heavy-ion collisions.'' [\href{https://arxiv.org/abs/2204.00641}{arXiv:2204.00641}].
 
-<img align="right" src="https://jasminebrewer.github.io/assets/images/Pmed_cartoon.png" width="300" padding="20"/>
-Jets containing two charm quarks provide a unique opportunity to connect theory to experiment, by making it possible to directly access the underlying gluon splitting to charm quarks. These processes allow us to access physics that cannot be accessed in other processes, including medium-enhanced charm production we demonstrated in <a href="https://arxiv.org/abs/2209.13600" target="_blank">arXiv:2209.13600</a>, based on theoretical developments in <a href="https://arxiv.org/abs/2203.11241" target="_blank">arXiv:2203.11241</a>.
+	M.~Attems, **J.~Brewer**, G.M.~Innocenti, A.~Mazeliauskas, S.~Park, W.~van der Schee, and U.~Wiedemann. ``The medium-modified $g\rightarrow c\bar{c}$ splitting function in the BDMPS-Z formalism .'' *JHEP 01 (2023) 080*. [\href{https://arxiv.org/abs/2203.11241}{arXiv:2203.11241}].
 
-###### Ongoing projects
+	**J.~Brewer**, B.~Scheihing-Hitschfeld, and Y.~Yin. ``Scaling and adiabaticity in a rapidly expanding gluon plasma .'' *JHEP 05 (2022) 145*. [\href{https://arxiv.org/abs/2203.02427}{arXiv:2203.02427}].
+	
+	**J.~Brewer**, Q.~Brodsky, and K.~Rajagopal. ``Disentangling Jet Modification in Jet Simulations and in Z+Jet Data.'' *JHEP 02 (2022) 175*. [\href{https://arxiv.org/abs/2110.13159}{arXiv:2110.13159}].
+	
+	**J.~Brewer**, A.~Huss, A.~Mazeliauskas, and W.~van der Schee. ``Ratios of jet and hadron spectra at LHC energies: measuring high-$p_T$ suppression without a $pp$ reference.'' *Phys. Rev. D 105 7, 074040 (2022)*. [\href{https://arxiv.org/abs/2108.134349}{arXiv:2108.134349}]. 
 
-<img align="right" src="https://jasminebrewer.github.io/assets/images/ML_cartoon.png" width="250" padding="10"/>
-<em>Machine learning - </em> I am developing techniques to use neural networks and boosted decision trees to identify jets containing two charm quarks in the case that only one of the charm quarks is measured.
+	**J.~Brewer**, A.~Mazeliauskas, and W.~van der Schee. ``Opportunities of OO and pO collisions at the LHC.'' [\href{https://arxiv.org/abs/2103.01939}{arXiv:2103.01939}].
 
-<em>Flavor tagging with substructure - </em> I am using jet substructure to identify the gluon splitting to charm quarks inside a jet with two charm, and to identify the types of other splittings within this type of jet. Code for this analysis is available on <a href="https://github.com/jasminebrewer/ccbar_substructure" target="_blank">github</a>.
+	**J.~Brewer**, J.~Thaler, and A.~Turner. ``Data-driven quark and gluon jet modification in heavy-ion collisions.'' *Phys. Rev. C 103, L021901 (2021)*. [\href{https://arxiv.org/abs/2008.08596}{arXiv:2008.08596}].
 
-#### Disentangling quark and gluon jets
+	**J.~Brewer**, L.~Yan, and Y.~Yin. ``Adiabatic hydrodynamization in rapidly-expanding quark--gluon plasma.'' *Phys. Lett. B 816, 136189 (2021)*. [\href{https://arxiv.org/abs/1910.00021}{arXiv:1910.00021}].
 
-Jets come in two types - they can be initiated either by quarks or gluons - which give them different properties and influence their interaction with the quark-gluon plasma. Separating measurements into quark and gluon jets can be viewed as a topic modelling problem. Two unlabelled mixtures of two underlying categories, in this case quark and gluon jets, can be separated into measurements on each category. I demonstrated this technique for separating quark and gluon jet measurements in heavy-ion collisions. We demonstrated the technique for the first time in <a href="https://arxiv.org/abs/2008.08596" target="_blank">arXiv:2008.08596</a> and showed how it can be used for a variety of observables in <a href="https://arxiv.org/abs/2204.00641" target="_blank">arXiv:2204.00641</a>. The code is available on <a href="https://github.com/jasminebrewer/jet-topics-from-MCMC" target="_blank">github</a>.
+	**J.~Brewer**, J.~Milhano, and J.~Thaler. ``Sorting out quenched jets.'' *Phys. Rev. Lett. 122, 222301 (2019)*. [\href{https://arxiv.org/abs/1812.05111}{arXiv:1812.05111}].
 
+	**J.~Brewer**, A.~Sadofyev, and W.~van der Schee. ``Jet shape modifications in holographic dijet systems.'' *Phys. Lett. B 820, 136492 (2021)*. [\href{https://arxiv.org/abs/1809.10695}{arXiv:1809.10695}].
 
-## Microscopic dynamics and emergent phenomena in complex systems
+	**J.~Brewer**, S.~Mukherjee, K.~Rajagopal, and Y.~Yin. ``Searching for the QCD critical point via the rapidity dependence of cumulants.'' *Phys. Rev. C 98, 061901(R) (2018)*. [\href{https://arxiv.org/abs/1804.10215}{arXiv:1804.10215}].
 
-A significant part of my research focuses on non-equilibrium quantum systems and equilibration in the quark-gluon plasma. One part of this direction is that I develop simulations based on the microscopic interactions of individual particles to understand the emergent macroscopic dynamics. I have also developed a strategy to explain emergent simplicity in the dynamics of complex non-equilibrium systems. You can download Mathematica code to solve the kinetic equation to the onset of prescaling <a href="https://jasminebrewer.github.io/assets/files/solve_small-angle_functions.nb" target="_blank">here.</a>
+	**J.~Brewer**, K.~Rajagopal, A.~Sadofyev, and W.~van der Schee. ``Evolution of the Mean Jet Shape and Dijet Asymmetry Distribution of an Ensemble of Holographic Jets in Strongly Coupled Plasma.'' *JHEP 1802 (2018) 015*. [\href{https://arxiv.org/abs/1710.03237}{arXiv:1710.03237}].
+
+	D.~Longcope, J.~Qiu, and **J.~Brewer**. ``A reconnection-driven model of the hard X-ray loop-top source from flare 2004 February 26." *The Astrophysical Journal 833:211 (2016)*. [\href{https://arxiv.org/abs/1610.07953}{arXiv:1610.07953}].
+
+	H.~Bantilan, **J.~Brewer**, T.~Ishii, W.~Lewis, and P.~Romatschke. ``String-theory-based predictions for nonhydrodynamic collective modes in strongly interacting Fermi gases." *Phys. Rev. A 94, 033621 (2016)*. [\href{https://arxiv.org/abs/1605.00014}{arXiv:1605.00014}].
+
+	**J.~Brewer**, M.~Mendoza, R.~Young, and P.~Romatschke. ``Lattice Boltzmann simulations of a two-dimensional Fermi gas at unitarity." *Phys. Rev. A 93, 013618 (2016)*. [\href{https://arxiv.org/abs/1507.05975}{arXiv:1507.05975}].
+
+	\textbf{J.~Brewer} and P.~Romatschke. ``Nonhydrodynamic Transport in Trapped unitary Fermi gases." *Phys. Rev. Lett. 115, 190404 (2015). [\href{https://arxiv.org/abs/1508.01199}{arXiv:1508.01199}].
+
+	M.B. Pandey, T. Porenta, **J.~Brewer**, A. Burkhart, S. $\check{C}$opar, S. $\check{Z}$umer, and Ivan. I. Smalyukh. ``Self-assembly of skyrmion-dressed chiral nematic colloids with tangential anchoring." *Phys. Rev. E 89, 060502 (2014)*.
