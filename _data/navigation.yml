@@ -5,5 +5,7 @@ main:
       url: /overview/
     - title: "Projects"
       url: /projects/
+    - title: "Publications"
+      url: /publications/
     - title: "Events"
       url: /events/
