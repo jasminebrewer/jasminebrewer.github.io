@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-## Events
 ### Upcoming
 
 <em>Erice International School on Complexity - </em>In April 2024 I am participating in the Erice International School on Complexity course on <a href="https://indico.lucas.lu.se/event/2901/" target="_blank">Machine Learning Approaches for Complexity</a>.

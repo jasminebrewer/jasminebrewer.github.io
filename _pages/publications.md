@@ -5,8 +5,6 @@ title: "Publications"
 author_profile: true
 ---
 
-## Publications
-
 F. Zhou, **J. Brewer**, A. Mazeliauskas. "Minijet quenching in non-equilibrium quark-gluon plasma." *JHEP 06 (2024) 214*. <a href="https://arxiv.org/abs/2402.09298" target="_blank">arXiv:2402.09298</a>.
 
 **J. Brewer**, W. Ke, L. Yan, and Y. Yin. "Far-from-equilibrium slow modes and momentum anisotropy in expanding plasma." *Phys.Rev.D 109 (2024) 9, L091504*. <a href="https://arxiv.org/abs/2212.00820" target="_blank">arXiv:2212.00820</a>.
