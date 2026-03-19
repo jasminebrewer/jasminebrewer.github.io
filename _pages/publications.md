@@ -5,6 +5,12 @@ title: "Publications"
 author_profile: true
 ---
 
+M. Doherty, M. Puviani, **J. Brewer**, G. Matos, D. Amaro, B. Criger, D. T. Stephen. ''Fast stabilizer state preparation via AI-optimized graph decimation.'' <a href="https://arxiv.org/abs/2603.17743" target="_blank">arXiv:2603.17743</a>.
+
+J. Barata, **J. Brewer**, K. Lee, J. Silva. ''Heavy Quark Pair Energy Correlators: From Profiling Partonic Splittings to Probing Heavy-Flavor Fragmentation.'' <a href="https://arxiv.org/abs/2508.19404" target="_blank">arXiv:2508.19404</a>.
+
+**J. Brewer**, W. van der Schee, U. Wiedemann. ''Testing the QCD formation time with reconstructed parton splittings.'' <a href="https://arxiv.org/abs/2503.11764" target="_blank">arXiv:2503.11764</a>.
+
 F. Zhou, **J. Brewer**, A. Mazeliauskas. "Minijet quenching in non-equilibrium quark-gluon plasma." *JHEP 06 (2024) 214*. <a href="https://arxiv.org/abs/2402.09298" target="_blank">arXiv:2402.09298</a>.
 
 **J. Brewer**, W. Ke, L. Yan, and Y. Yin. "Far-from-equilibrium slow modes and momentum anisotropy in expanding plasma." *Phys.Rev.D 109 (2024) 9, L091504*. <a href="https://arxiv.org/abs/2212.00820" target="_blank">arXiv:2212.00820</a>.
