@@ -99,8 +99,8 @@ include:
 author:
   name             : "Jasmine Brewer"
   avatar           : "/assets/images/jasmine.jpg"
-  bio              : "Leverhulme-Peierls Fellow, Oxford"
-  location         : "Oxford, UK"
+  bio              : "Senior Research Scientist, Quantinuum"
+  location         : "London, UK"
   links:
     - label: "Inspire"
       url: "https://inspirehep.net/authors/1501371"
