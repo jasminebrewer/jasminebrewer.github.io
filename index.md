@@ -20,7 +20,8 @@ You can download my CV <a href="https://jasminebrewer.github.io/assets/files/Jas
 
 <img align="right" src="https://jasminebrewer.github.io/assets/images/QNT_logo.png" width="120" padding="10"/>
 Quantinuum (2025 -)\\
-*Senior Research Scientist -- AI Team*
+AI Team\\
+*Senior Research Scientist*
 
 <img align="right" src="https://jasminebrewer.github.io/assets/images/Oxford_logo.png" width="120" padding="10"/>
 University of Oxford (2023-2025)\\
