@@ -4,8 +4,10 @@ title: "About Me"
 author_profile: true
 ---
 
-I am a Senior Research Scientist on the AI team at Quantinuum in London, where I work on AI for science, with a particular focus on quantum chemistry. 
+I am a Senior Research Scientist on the AI team at Quantinuum in London, where I work on AI for science, with a particular focus on quantum chemistry.
+ 
 I am a particle physicist by training. My research focused on heavy-ion collisions, especially data-driven inference using jets and many-body physics and equilibration in QCD. 
+
 I did my PhD in the Center for Theoretical Physics at MIT in 2020 before a postdoctoral fellow at CERN, and later was a Royal Society University Research Fellow and Leverhulme-Peierls fellow in Oxford.
 
 <!-- I am a Senior Research Scientist in the AI team at Quantinuum in London,
