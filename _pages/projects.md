@@ -13,6 +13,10 @@ Our models speak a custom language of quantum operators, which they use to prepa
 
 In our first paper in this direction, we applied these methods to find the ground state of different conformations of imipramine, a relatively large and flexible molecule used as an antidepressant.
 
+## AI-optimized state preparation
+
+A major challenge for near-term quantum computing is preparing useful quantum states with as few gates as possible. We reformulated the preparation of an important class of states for quantum error correction as a graph optimization problem. We developed an \textit{AlphaZero}-style framework to integrate Monte Carlo tree search with reinforcement learning, which enabled us to find solutions up to 2.5 times better than state-of-the-art for error correcting codes up to 144 qubits. We demonstrated that the planning enabled by tree search was also crucial, and enabled this approach to outperform strong alternatives including beam search and reinforcement learning alone.
+
 ## Data inference with jets
 
 A major focus of my research is developing techniques to use large and complex data most directly to access the properties of the plasma. My research focuses on using jets - sprays of high-energy particles produced inside the quark-gluon plasma. However, jets themselves are very complicated objects, so my research focuses on identifying special types of analysis techniques or physical processes where we can access new information using data.
