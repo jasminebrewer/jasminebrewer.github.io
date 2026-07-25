@@ -19,7 +19,7 @@ You can download my CV <a href="https://jasminebrewer.github.io/assets/files/Jas
 ## Professional Experience
 
 <img align="right" src="https://jasminebrewer.github.io/assets/images/QNT_logo.png" width="120" padding="10"/>
-Quantinuum (2025 -)\\
+Quantinuum (2025-Present)\\
 AI Team\\
 *Senior Research Scientist*
 

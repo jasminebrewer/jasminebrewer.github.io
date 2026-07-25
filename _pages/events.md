@@ -8,13 +8,11 @@ author_profile: true
 
 ### Upcoming
 
-<em>Erice International School on Complexity - </em>In April 2024 I am participating in the Erice International School on Complexity course on <a href="https://indico.lucas.lu.se/event/2901/" target="_blank">Machine Learning Approaches for Complexity</a>.
+### Recent
 
 <em>Frontier of Quark Matter - </em>I am organizing an 8-week program on "Frontiers of Quark Matter" at the Kavli Institute for Theoretical Physics set to take place in 2025.
 
 <em>Initial Stages 2025 - </em>I am serving on the International Advisory Committee for Initial Stages 2025 in Taipei.
-
-### Recent
 
 <em>Saturday of Theoretical Physics - </em> In March 2024 I presented at Oxford's Morning of Theoretical Physics, an outreach event for alumni to learn about current research in the department. A podcast of the event is available <a href="https://saturdaytheory.physics.ox.ac.uk/event/leverhulme-peierls-fellows-0" target="_blank">here</a>.
 

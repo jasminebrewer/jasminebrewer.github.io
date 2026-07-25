@@ -5,6 +5,14 @@ title: "Projects"
 author_profile: true
 ---
 
+## Language models for quantum chemistry
+
+In my current research, I develop language models for quantum chemistry. The goal is to teach models to find low-energy states of large molecules, which underpin important chemical properties such as stability and reactivity. Accurate classical calculations become prohibitively expensive even for moderately sized molecules, making AI a promising route to larger systems.
+
+Our models speak a custom language of quantum operators, which they use to prepare low-energy molecular states conditioned on information about the molecule’s structure and Hamiltonian. We generate training data using established classical methods on tractable problems and small active spaces, and make architectural and design choices to leverage this information as effectively as possible when generalizing to larger systems. We additionally fine-tune the models with reinforcement learning, using the energy of each model-prepared state as a direct performance signal and reducing reliance on classically generated training data.
+
+In our first paper in this direction, we applied these methods to find the ground state of different conformations of imipramine, a relatively large and flexible molecule used as an antidepressant.
+
 ## Data inference with jets
 
 A major focus of my research is developing techniques to use large and complex data most directly to access the properties of the plasma. My research focuses on using jets - sprays of high-energy particles produced inside the quark-gluon plasma. However, jets themselves are very complicated objects, so my research focuses on identifying special types of analysis techniques or physical processes where we can access new information using data.
