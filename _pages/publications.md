@@ -5,6 +5,8 @@ title: "Publications"
 author_profile: true
 ---
 
+A. Koziell-Pipe, **J. Brewer**, J. Guhit, M. Farag, et al. ''Learning to Prepare Molecular Ground States with Transformer Models.'' <a href="https://arxiv.org/abs/2607.22468" target="_blank">arXiv:2607.22468</a>.
+
 M. Doherty, M. Puviani, **J. Brewer**, G. Matos, D. Amaro, B. Criger, D. T. Stephen. ''Fast stabilizer state preparation via AI-optimized graph decimation.'' <a href="https://arxiv.org/abs/2603.17743" target="_blank">arXiv:2603.17743</a>.
 
 J. Barata, **J. Brewer**, K. Lee, J. Silva. ''Heavy Quark Pair Energy Correlators: From Profiling Partonic Splittings to Probing Heavy-Flavor Fragmentation.'' <a href="https://arxiv.org/abs/2508.19404" target="_blank">arXiv:2508.19404</a>.
